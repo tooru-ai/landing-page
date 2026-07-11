@@ -1,4 +1,3 @@
-// AUTO-GENERATED from docs/research/whelp.co/pages/pages-data.json by scripts/gen-page-data.mjs
 import { FeatureIcon0, FeatureIcon1, FeatureIcon2, FeatureIcon3, FeatureIcon4, FeatureIcon5, FeatureIcon6, FeatureIcon7, FeatureIcon8, FeatureIcon9, FeatureIcon10, FeatureIcon11, FeatureIcon12, FeatureIcon13, FeatureIcon14, FeatureIcon15, FeatureIcon16, FeatureIcon17, FeatureIcon18 } from "@/components/feature-icons";
 
 export interface PageSection {

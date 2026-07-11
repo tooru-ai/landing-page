@@ -12,8 +12,6 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
-    // Research artifacts downloaded from the clone target (not project code):
-    "docs/**",
   ]),
 ]);
 
