@@ -1,0 +1,340 @@
+{
+ "page": "crm",
+ "sections": [
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper DualGrid_maxHeight",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h1",
+   "headingCls": "Header_header Header_hero cooper",
+   "heading": "The CRM solution you've been looking for",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins CRMHero_subtext",
+     "text": "Streamline your customer relationship management with our feature-rich platform that offers tools and solutions to improve your customer support."
+    },
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins Dashboard_text",
+     "text": "The dashboard consolidates all of your customer data and communication channels in one location, making it easy to access and manage everything you need."
+    }
+   ],
+   "buttons": [
+    {
+     "cls": "Button_button CRMHero_button Button_black",
+     "href": "https://web.whelp.co/signup",
+     "text": "Get Started"
+    }
+   ],
+   "images": [
+    {
+     "alt": "CRM Hero background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.9f15b2dd.png&w=3840&q=75",
+     "w": 1176,
+     "h": 976,
+     "cls": "CRMHero_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "CRMHero_left",
+   "innerSnippetLen": 2735
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "One location for all your customer data",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins UserDetails_subtext",
+     "text": "The platform allows you to collect and store all of your customer data in one location, making it easy to access and analyze it to optimize your business operations."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "User details background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fleft.f4e4a29d.png&w=3840&q=75",
+     "w": 1176,
+     "h": 736,
+     "cls": "UserDetails_imageBg"
+    }
+   ],
+   "orderClasses": [
+    "DualGrid_orderSecond__qEBAM",
+    "DualGrid_orderFirst__In7zT"
+   ],
+   "firstHalf": "left",
+   "leftCls": "DualGrid_orderSecond",
+   "innerSnippetLen": 1197
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Importing your data is a breeze",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins Import_subtext",
+     "text": "This platform makes it easy to import your existing customer data, allowing you to seamlessly transition to our platform."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "Import background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.c0900a4e.png&w=3840&q=75",
+     "w": 1176,
+     "h": 688,
+     "cls": "Import_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "Import_left",
+   "innerSnippetLen": 1061
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Customize your data management",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins TableFields_subtext",
+     "text": "With this platform, you have control over your data management. You can create your own tables and set your own rules for organizing and tracking your customer data."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "Table fields background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fleft.3aa132f4.png&w=3840&q=75",
+     "w": 1176,
+     "h": 928,
+     "cls": "TableFields_imageBg"
+    }
+   ],
+   "orderClasses": [
+    "DualGrid_orderSecond__qEBAM",
+    "DualGrid_orderFirst__In7zT"
+   ],
+   "firstHalf": "left",
+   "leftCls": "DualGrid_orderSecond",
+   "innerSnippetLen": 1188
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Track customer activity and interactions",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins Activity_subtext",
+     "text": "Keep track of customer activity and interactions to get a better understanding of their behavior and preferences."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "Activity background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.537a5c91.png&w=3840&q=75",
+     "w": 1176,
+     "h": 928,
+     "cls": "Activity_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "Activity_left",
+   "innerSnippetLen": 1074
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Quickly find the data you need",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins FilterData_subtext",
+     "text": "Use the platform's filtering tools to quickly locate specific customer data."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "Filter data background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fleft.ced91302.png&w=3840&q=75",
+     "w": 1176,
+     "h": 776,
+     "cls": "FilterData_imageBg"
+    }
+   ],
+   "orderClasses": [
+    "DualGrid_orderSecond__qEBAM",
+    "DualGrid_orderFirst__In7zT"
+   ],
+   "firstHalf": "left",
+   "leftCls": "DualGrid_orderSecond",
+   "innerSnippetLen": 1098
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Easily manage your customer contacts",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins ManageContacts_subtext",
+     "text": "Our platform makes it simple to add, edit, and delete customer contacts as needed."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "Manage contacts background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.1e51362b.png&w=3840&q=75",
+     "w": 1176,
+     "h": 712,
+     "cls": "ManageContacts_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "ManageContacts_left",
+   "innerSnippetLen": 1076
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Merge duplicate customer contacts",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins MergeContacts_subtext",
+     "text": "Eliminate duplicate customer contacts with our merge feature."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "Merge contacts background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fleft.61808840.png&w=3840&q=75",
+     "w": 1176,
+     "h": 640,
+     "cls": "MergeContacts_imageBg"
+    }
+   ],
+   "orderClasses": [
+    "DualGrid_orderSecond__qEBAM",
+    "DualGrid_orderFirst__In7zT"
+   ],
+   "firstHalf": "left",
+   "leftCls": "DualGrid_orderSecond",
+   "innerSnippetLen": 1099
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Export your customer data as needed",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins ExportData_subtext",
+     "text": "Export your customer data for backup or use in other systems with ease."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "Export data background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.adb99847.png&w=3840&q=75",
+     "w": 1176,
+     "h": 640,
+     "cls": "ExportData_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "ExportData_left",
+   "innerSnippetLen": 1040
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Categorize your customer contacts with tags",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins AddTag_subtext",
+     "text": "Use tagging feature to categorize your customer contacts, making it easier to find and manage them."
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "How does Whelp work?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "What are the security and privacy terms for Whelp?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "Are there any technical requirements to use Whelp?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "Is installation or downloading required?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "How many conversations does my subscription cover?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "Is it possible to cancel my subscription at any time?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "Are volume discounts available for large businesses?"
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "Add tag background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fleft.c7256c3c.png&w=3840&q=75",
+     "w": 1176,
+     "h": 640,
+     "cls": "AddTag_imageBg"
+    }
+   ],
+   "orderClasses": [
+    "DualGrid_orderSecond__qEBAM",
+    "DualGrid_orderFirst__In7zT"
+   ],
+   "firstHalf": "left",
+   "leftCls": "DualGrid_orderSecond",
+   "innerSnippetLen": 11864
+  }
+ ],
+ "Features_wrapper": true,
+ "Content_wrapper": true
+}

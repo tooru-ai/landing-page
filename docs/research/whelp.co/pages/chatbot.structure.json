@@ -1,0 +1,306 @@
+{
+ "page": "chatbot",
+ "sections": [
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper DualGrid_maxHeight",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h1",
+   "headingCls": "Header_header Header_hero cooper",
+   "heading": "Design unique chatbots with drag and drop builder",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins ChatbotHero_subtext",
+     "text": "Create personalized chatbots quickly and easily with our intuitive drag-and-drop builder."
+    }
+   ],
+   "buttons": [
+    {
+     "cls": "Button_button ChatbotHero_button Button_black",
+     "href": "https://web.whelp.co/signup",
+     "text": "Get Started"
+    }
+   ],
+   "images": [
+    {
+     "alt": "Chatbot hero background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.c09b7db4.png&w=3840&q=75",
+     "w": 1224,
+     "h": 848,
+     "cls": "ChatbotHero_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "ChatbotHero_left",
+   "innerSnippetLen": 1893
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h3",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Get 7/24 support with our chatbot",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins Bot_subtext",
+     "text": "Provide your customers with 24/7 support by automating common inquiries with our AI-based chatbot."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "Bot background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fleft.fd12151c.png&w=3840&q=75",
+     "w": 1176,
+     "h": 928,
+     "cls": "Bot_imageBg"
+    }
+   ],
+   "orderClasses": [
+    "DualGrid_orderSecond__qEBAM",
+    "DualGrid_orderFirst__In7zT"
+   ],
+   "firstHalf": "left",
+   "leftCls": "DualGrid_orderSecond",
+   "innerSnippetLen": 1075
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Happy customers",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins HappyCustomers_subtext",
+     "text": "Keep your customers happy with fast, efficient, and personalized support from our chatbot."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "HappyCustomers background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.ec1bec4f.png&w=3840&q=75",
+     "w": 1176,
+     "h": 928,
+     "cls": "HappyCustomers_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "HappyCustomers_left",
+   "innerSnippetLen": 1159
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper BotFlow1_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h3",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Intuitive builder at your fingertips",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins BotFlow1_subtext",
+     "text": "Our platform makes it easy for you to design and customize chatbots with its user-friendly interface."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "BotFlow1 background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fleft.62e64c9a.png&w=3840&q=75",
+     "w": 1176,
+     "h": 976,
+     "cls": "BotFlow1_imageBg"
+    }
+   ],
+   "orderClasses": [
+    "DualGrid_orderSecond__qEBAM",
+    "DualGrid_orderFirst__In7zT"
+   ],
+   "firstHalf": "left",
+   "leftCls": "DualGrid_orderSecond",
+   "innerSnippetLen": 1111
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Automate the whole journey for customers",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins BotFlow2_subtext",
+     "text": "Use our chatbot to automate the entire customer journey, from initial contact to purchase and beyond."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "BotFlow2 background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.8fa188d0.png&w=3840&q=75",
+     "w": 1176,
+     "h": 928,
+     "cls": "BotFlow2_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "BotFlow2_left",
+   "innerSnippetLen": 1062
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper BotReports_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h3",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Chatbot reports",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins BotReports_subtext",
+     "text": "Get detailed reports on the performance and effectiveness of your chatbot to optimize its performance."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "BotReports background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fleft.b64c488a.png&w=3840&q=75",
+     "w": 1176,
+     "h": 800,
+     "cls": "BotReports_imageBg"
+    }
+   ],
+   "orderClasses": [
+    "DualGrid_orderSecond__qEBAM",
+    "DualGrid_orderFirst__In7zT"
+   ],
+   "firstHalf": "left",
+   "leftCls": "DualGrid_orderSecond",
+   "innerSnippetLen": 1176
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Design great flows with no-code platform",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins BotFlow_subtext",
+     "text": "Create complex chatbot flows without any coding knowledge using our no-code platform."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "BotFlow background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.ad64c5e0.png&w=3840&q=75",
+     "w": 1176,
+     "h": 928,
+     "cls": "BotFlow_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "BotFlow_left",
+   "innerSnippetLen": 1040
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h3",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Condition builder",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins BotCondition_subtext",
+     "text": "Use our condition builder to customize chatbot responses based on specific conditions or triggers."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "BotCondition background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fleft.4952c461.png&w=3840&q=75",
+     "w": 1176,
+     "h": 928,
+     "cls": "BotCondition_imageBg"
+    }
+   ],
+   "orderClasses": [
+    "DualGrid_orderSecond__qEBAM",
+    "DualGrid_orderFirst__In7zT"
+   ],
+   "firstHalf": "left",
+   "leftCls": "DualGrid_orderSecond",
+   "innerSnippetLen": 1113
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Select your desired channel",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins BotChannels_subtext",
+     "text": "Communicate with customers through their preferred channels, including SMS, Voice, WhatsApp, WeChat, Messenger, Email, Live Chat, and other social messengers."
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "How does Whelp work?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "What are the security and privacy terms for Whelp?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "Are there any technical requirements to use Whelp?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "Is installation or downloading required?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "How many conversations does my subscription cover?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "Is it possible to cancel my subscription at any time?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "Are volume discounts available for large businesses?"
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "BotChannels background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.93b3abee.png&w=3840&q=75",
+     "w": 1176,
+     "h": 928,
+     "cls": "BotChannels_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "BotChannels_left",
+   "innerSnippetLen": 11297
+  }
+ ],
+ "Channels": true,
+ "Features_wrapper": true,
+ "Content_wrapper": true
+}

@@ -1,20 +1,48 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Poppins } from "next/font/google";
+import localFont from "next/font/local";
+import { ChatLauncher } from "@/components/ChatLauncher";
+import { Footer } from "@/components/Footer";
+import { Navbar } from "@/components/Navbar";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const poppins = Poppins({
+  variable: "--font-poppins",
   subsets: ["latin"],
+  weight: ["200", "300", "400", "500", "600", "700", "800"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+const cooper = localFont({
+  variable: "--font-cooper",
+  src: [
+    { path: "../../public/fonts/cooper-400.ttf", weight: "400", style: "normal" },
+    { path: "../../public/fonts/cooper-600.ttf", weight: "600", style: "normal" },
+    { path: "../../public/fonts/cooper-800.ttf", weight: "800", style: "normal" },
+  ],
 });
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: "Omnichannel Inbox Software - Whelp",
+  description:
+    "The AI-based omnichannel shared inbox for customer support over Voice, Email, Live Chat, SMS, and WhatsApp. Streamline your customer communication with our omnichannel CRM platform.",
+  icons: { icon: "/seo/favicon.ico" },
+  openGraph: {
+    title: "Whelp - Customer Support Platform",
+    description:
+      "The AI-based omnichannel shared inbox for customer support over Voice, Email, Live Chat, SMS, and WhatsApp.",
+    url: "https://www.whelp.co",
+    type: "website",
+    siteName: "Whelp",
+    images: [
+      {
+        url: "/seo/og-image.png",
+        alt: "Whelp - Landing Dashboard",
+        type: "image/png",
+        width: 1362,
+        height: 743,
+      },
+    ],
+  },
 };
 
 export default function RootLayout({
@@ -23,11 +51,15 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}</body>
+    <html lang="en" className={`${poppins.variable} ${cooper.variable}`}>
+      <body>
+        <div className="flex min-h-screen flex-col">
+          <Navbar />
+          {children}
+          <Footer />
+          <ChatLauncher />
+        </div>
+      </body>
     </html>
   );
 }

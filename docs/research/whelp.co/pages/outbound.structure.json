@@ -1,0 +1,277 @@
+{
+ "page": "outbound",
+ "sections": [
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper DualGrid_maxHeight",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h1",
+   "headingCls": "Header_header Header_hero cooper",
+   "heading": "Automate your campaigns with ease",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins OutboundHero_subtext",
+     "text": "Automate your marketing efforts with our campaign automation tools, saving time and resources while reaching your audience efficiently."
+    }
+   ],
+   "buttons": [
+    {
+     "cls": "Button_button OutboundHero_button Button_black",
+     "href": "https://web.whelp.co/signup",
+     "text": "Get Started"
+    }
+   ],
+   "images": [
+    {
+     "alt": "Outbound hero background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.2b53e303.png&w=3840&q=75",
+     "w": 1176,
+     "h": 880,
+     "cls": "OutboundHero_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "OutboundHero_left",
+   "innerSnippetLen": 2029
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper BulkMessages_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h3",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Reach a larger audience with bulk messaging",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins BulkMessages_subtext",
+     "text": "Send bulk messages to your audience, increasing your reach and helping you grow your business."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "BulkMessages background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fleft.5babc19f.png&w=3840&q=75",
+     "w": 1176,
+     "h": 752,
+     "cls": "BulkMessages_imageBg"
+    }
+   ],
+   "orderClasses": [
+    "DualGrid_orderSecond__qEBAM",
+    "DualGrid_orderFirst__In7zT"
+   ],
+   "firstHalf": "left",
+   "leftCls": "DualGrid_orderSecond",
+   "innerSnippetLen": 1135
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper CampaignReports_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Keep track of your campaigns with detailed reports",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins CampaignReports_subtext",
+     "text": "Monitor the performance of your campaigns with detailed reports, providing valuable insights for future planning."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "CampaignReports background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.3c075ee9.png&w=3840&q=75",
+     "w": 1176,
+     "h": 680,
+     "cls": "CampaignReports_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "CampaignReports_left",
+   "innerSnippetLen": 1199
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h3",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Filter your audience to target the right people",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins FilterAudience_subtext",
+     "text": "Use various criteria to filter your audience and target the right people for your campaigns."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "FilterAudience background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fleft.fcbf16bc.png&w=3840&q=75",
+     "w": 1176,
+     "h": 776,
+     "cls": "FilterAudience_imageBg"
+    }
+   ],
+   "orderClasses": [
+    "DualGrid_orderSecond__qEBAM",
+    "DualGrid_orderFirst__In7zT"
+   ],
+   "firstHalf": "left",
+   "leftCls": "DualGrid_orderSecond",
+   "innerSnippetLen": 1149
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Identify your target audience and tailor your campaigns",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins TargetAudience_subtext",
+     "text": "Determine your target audience and tailor your campaigns to their specific needs and preferences."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "TargetAudience background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.724ba8c7.png&w=3840&q=75",
+     "w": 1176,
+     "h": 592,
+     "cls": "TargetAudience_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "TargetAudience_left",
+   "innerSnippetLen": 1109
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h3",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Schedule your messages for later",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins Schedule_subtext",
+     "text": "Plan and execute your campaigns in advance by scheduling your messages for later."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "Schedule background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fleft.f2344c3d.png&w=3840&q=75",
+     "w": 1176,
+     "h": 928,
+     "cls": "Schedule_imageBg"
+    }
+   ],
+   "orderClasses": [
+    "DualGrid_orderSecond__qEBAM",
+    "DualGrid_orderFirst__In7zT"
+   ],
+   "firstHalf": "left",
+   "leftCls": "DualGrid_orderSecond",
+   "innerSnippetLen": 1087
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h2",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Add personalization to your campaigns",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins Personalization_subtext",
+     "text": "Enhance the engagement of your campaigns by adding personalization to your messages."
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "Personalization background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fright.7b51ccb3.png&w=3840&q=75",
+     "w": 1176,
+     "h": 928,
+     "cls": "Personalization_imageBg"
+    }
+   ],
+   "orderClasses": [],
+   "firstHalf": "left",
+   "leftCls": "Personalization_left",
+   "innerSnippetLen": 1084
+  },
+  {
+   "type": "dualgrid",
+   "cls": "DualGrid_wrapper",
+   "style": "gap:0;padding-top:0px;padding-bottom:0px",
+   "headingTag": "h3",
+   "headingCls": "Header_header Header_h1 cooper",
+   "heading": "Choose your desired channel for your campaigns",
+   "paragraphs": [
+    {
+     "cls": "Text_text Text_subtext Text_medium poppins SelectChannel_subtext",
+     "text": "Reach your audience through their preferred channels, including SMS, Voice, WhatsApp, WeChat, Messenger, Email, and Live Chat."
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "How does Whelp work?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "What are the security and privacy terms for Whelp?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "Are there any technical requirements to use Whelp?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "Is installation or downloading required?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "How many conversations does my subscription cover?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "Is it possible to cancel my subscription at any time?"
+    },
+    {
+     "cls": "Text_text Text_medium poppins FAQ_text",
+     "text": "Are volume discounts available for large businesses?"
+    }
+   ],
+   "buttons": [],
+   "images": [
+    {
+     "alt": "SelectChannel background",
+     "src": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fleft.82c99e56.png&w=3840&q=75",
+     "w": 1176,
+     "h": 928,
+     "cls": "SelectChannel_imageBg"
+    }
+   ],
+   "orderClasses": [
+    "DualGrid_orderSecond__qEBAM",
+    "DualGrid_orderFirst__In7zT"
+   ],
+   "firstHalf": "left",
+   "leftCls": "DualGrid_orderSecond",
+   "innerSnippetLen": 13341
+  }
+ ],
+ "Features_wrapper": true,
+ "Content_wrapper": true
+}
